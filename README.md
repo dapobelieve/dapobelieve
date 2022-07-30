@@ -1,5 +1,5 @@
 <h1 align="left" id="">:computer: Hello there! I'm Dapo</h1>
-<h3 align="left">I am a Versatilist, doing Software Engineering things</h3>
+<h3 align="left">I am a versatilist, interested in scaling apps and getting the highest :highest: computing juices out of them</h3>
 
 <p align="left">
   <a href="https://github.com/dapobelieve/dapobelieve">
@@ -19,9 +19,11 @@
   </a>
 </p>
 
-<a href="#dapobelieve-title">
-  <img src="https://raw.githubusercontent.com/dapobelieve/github-stats-transparent/output/generated/overview.svg" alt="dapobelieve" align="right" />
-</a>
+[//]: # (<a href="#dapobelieve-title">)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/dapobelieve/github-stats-transparent/output/generated/overview.svg" alt="dapobelieve" align="right" />)
+
+[//]: # (</a>)
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Javascript**
