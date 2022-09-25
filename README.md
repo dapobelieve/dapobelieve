@@ -1,5 +1,5 @@
 <h1 align="left" id="">:computer: Hello there! I'm Dapo</h1>
-<h3 align="left">I am a versatilist, interested in scaling apps and getting the highest :arrow_up::arrow_up::arrow_up: computing juices out of them</h3>
+<h3 align="left">I am a versatilist, interested in building simple, scalable, and secure software solutions.</h3>
 
 <p align="left">
   <a href="https://github.com/dapobelieve/dapobelieve">
