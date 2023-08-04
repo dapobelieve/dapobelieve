@@ -20,7 +20,6 @@
 [//]: # (</a>)
 
 [//]: # (- :office: &nbsp;I'm currently working at **[84.51°]**)
-- :seedling: &nbsp;I’m currently learning **Javascript**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
